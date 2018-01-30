@@ -1,0 +1,22 @@
+1 Read IP List from excel and ping that IP on Command prompt read response and update in excel. 
+   
+2 Read PDF and OCR text & save into Database. (1) Plain text pdf 2) Structured pdf)
+   
+3
+ Copy data from one excel to another excel.
+   
+4
+ Read phone number from excel and check DND status and update response in excel
+   
+5
+ Scrap data from web site and write into MS. Doc.
+   
+6
+ Read email inbox (Sort email, Get email header ,Get email body) etc.
+   
+7
+ OCR captcha 
+   
+8
+ Get files from folder
+ 
